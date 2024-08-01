@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bloodbank/static/css/main.5fffbbda.css",
+    "main.js": "/bloodbank/static/js/main.dbdbb916.js",
+    "static/js/787.69d65367.chunk.js": "/bloodbank/static/js/787.69d65367.chunk.js",
+    "index.html": "/bloodbank/index.html",
+    "main.5fffbbda.css.map": "/bloodbank/static/css/main.5fffbbda.css.map",
+    "main.dbdbb916.js.map": "/bloodbank/static/js/main.dbdbb916.js.map",
+    "787.69d65367.chunk.js.map": "/bloodbank/static/js/787.69d65367.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fffbbda.css",
+    "static/js/main.dbdbb916.js"
+  ]
+}
